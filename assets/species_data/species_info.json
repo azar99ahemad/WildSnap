@@ -1,0 +1,146 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-01-01",
+  "species": {
+    "lion": {
+      "id": "lion",
+      "name": "Lion",
+      "scientific_name": "Panthera leo",
+      "category": "mammal",
+      "description": "The lion is a large cat of the genus Panthera native to Africa and India. It is the second-largest living cat after the tiger.",
+      "habitat": "Grasslands, savannas, dense scrub, and open woodlands",
+      "conservation_status": "Vulnerable",
+      "additional_info": {
+        "diet": "Carnivore",
+        "lifespan": "10-14 years in the wild",
+        "weight": "120-250 kg"
+      }
+    },
+    "tiger": {
+      "id": "tiger",
+      "name": "Tiger",
+      "scientific_name": "Panthera tigris",
+      "category": "mammal",
+      "description": "The tiger is the largest living cat species and a member of the genus Panthera. It is known for its distinctive orange coat with black stripes.",
+      "habitat": "Tropical forests, grasslands, and mangrove swamps",
+      "conservation_status": "Endangered",
+      "additional_info": {
+        "diet": "Carnivore",
+        "lifespan": "10-15 years in the wild",
+        "weight": "90-310 kg"
+      }
+    },
+    "elephant": {
+      "id": "elephant",
+      "name": "Elephant",
+      "scientific_name": "Elephantidae",
+      "category": "mammal",
+      "description": "Elephants are the largest existing land animals. They are known for their long trunk, tusks, large ear flaps, and massive legs.",
+      "habitat": "Savannas, forests, deserts, and marshes",
+      "conservation_status": "Vulnerable",
+      "additional_info": {
+        "diet": "Herbivore",
+        "lifespan": "60-70 years",
+        "weight": "2,700-6,000 kg"
+      }
+    },
+    "bald_eagle": {
+      "id": "bald_eagle",
+      "name": "Bald Eagle",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "category": "bird",
+      "description": "The bald eagle is a bird of prey found in North America. It is the national bird of the United States.",
+      "habitat": "Near large bodies of open water with abundant fish",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Carnivore (fish, small mammals)",
+        "wingspan": "1.8-2.3 m",
+        "weight": "3-6.3 kg"
+      }
+    },
+    "cardinal": {
+      "id": "cardinal",
+      "name": "Northern Cardinal",
+      "scientific_name": "Cardinalis cardinalis",
+      "category": "bird",
+      "description": "The northern cardinal is a mid-sized songbird with a distinctive crest on the head and a mask on the face.",
+      "habitat": "Woodlands, gardens, shrublands, and wetlands",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Seeds, grains, and fruits",
+        "wingspan": "25-31 cm",
+        "weight": "42-48 g"
+      }
+    },
+    "blue_jay": {
+      "id": "blue_jay",
+      "name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "category": "bird",
+      "description": "The blue jay is a passerine bird in the family Corvidae, native to eastern North America.",
+      "habitat": "Deciduous and mixed forests, parks, and suburban areas",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Omnivore (nuts, seeds, insects)",
+        "wingspan": "34-43 cm",
+        "weight": "70-100 g"
+      }
+    },
+    "owl": {
+      "id": "owl",
+      "name": "Great Horned Owl",
+      "scientific_name": "Bubo virginianus",
+      "category": "bird",
+      "description": "The great horned owl is a large owl native to the Americas. It is known for its distinctive ear tufts and deep hooting call.",
+      "habitat": "Forests, deserts, and urban areas",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Carnivore (rodents, rabbits, birds)",
+        "wingspan": "91-153 cm",
+        "weight": "0.9-2.5 kg"
+      }
+    },
+    "sparrow": {
+      "id": "sparrow",
+      "name": "House Sparrow",
+      "scientific_name": "Passer domesticus",
+      "category": "bird",
+      "description": "The house sparrow is a small bird found throughout the world. It is strongly associated with human habitations.",
+      "habitat": "Urban areas, farms, and suburban environments",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Seeds and insects",
+        "wingspan": "19-25 cm",
+        "weight": "24-39.5 g"
+      }
+    },
+    "wolf": {
+      "id": "wolf",
+      "name": "Gray Wolf",
+      "scientific_name": "Canis lupus",
+      "category": "mammal",
+      "description": "The gray wolf is a canine native to the wilderness and remote areas of Eurasia and North America.",
+      "habitat": "Forests, tundra, and grasslands",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Carnivore",
+        "lifespan": "6-8 years in the wild",
+        "weight": "30-80 kg"
+      }
+    },
+    "bear": {
+      "id": "bear",
+      "name": "Brown Bear",
+      "scientific_name": "Ursus arctos",
+      "category": "mammal",
+      "description": "The brown bear is a large bear species found across North America and Eurasia. It includes the grizzly bear subspecies.",
+      "habitat": "Forests, alpine meadows, and tundra",
+      "conservation_status": "Least Concern",
+      "additional_info": {
+        "diet": "Omnivore",
+        "lifespan": "20-25 years",
+        "weight": "80-600 kg"
+      }
+    }
+  }
+}

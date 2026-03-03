@@ -1,0 +1,47 @@
+American Robin
+Bald Eagle
+Baltimore Oriole
+Barn Owl
+Barn Swallow
+Black-capped Chickadee
+Blue Jay
+Brown Thrasher
+Canada Goose
+Cardinal
+Cedar Waxwing
+Chimney Swift
+Common Crow
+Common Grackle
+Cooper's Hawk
+Dark-eyed Junco
+Downy Woodpecker
+Eastern Bluebird
+Eastern Meadowlark
+European Starling
+Golden Eagle
+Great Blue Heron
+Great Horned Owl
+House Finch
+House Sparrow
+Indigo Bunting
+Killdeer
+Mallard Duck
+Mourning Dove
+Northern Mockingbird
+Peregrine Falcon
+Pileated Woodpecker
+Purple Martin
+Red-tailed Hawk
+Red-winged Blackbird
+Ring-billed Gull
+Ruby-throated Hummingbird
+Sandhill Crane
+Song Sparrow
+Tree Swallow
+Tufted Titmouse
+Turkey Vulture
+White-breasted Nuthatch
+White-crowned Sparrow
+Wild Turkey
+Wood Duck
+Yellow Warbler
