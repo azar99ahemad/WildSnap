@@ -1,4 +1,5 @@
 import 'package:dartz/dartz.dart';
+import '../../../../core/constants/app_constants.dart';
 import '../../../../core/error/exceptions.dart';
 import '../../../../core/error/failures.dart';
 import '../../../../core/utils/audio_utils.dart';
@@ -118,7 +119,7 @@ class AudioDetectionRepositoryImpl implements AudioDetectionRepository {
 
       final processingTime = DateTime.now().difference(startTime);
       final audioDuration = Duration(
-        milliseconds: (samples.length / 16000 * 1000).round(),
+        milliseconds: (samples.length / AppConstants.audioSampleRate * 1000).round(),
       );
 
       return Right(AudioDetectionResult(

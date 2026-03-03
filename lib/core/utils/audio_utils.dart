@@ -132,9 +132,13 @@ class AudioUtils {
   }
 
   /// Converts Hz to Mel scale
+  /// Uses the O'Shaughnessy formula: mel = 2595 * log10(1 + hz / 700)
+  /// Constants 2595 and 700 are standard mel scale conversion parameters
   static double _hzToMel(double hz) => 2595 * log(1 + hz / 700) / ln10;
 
   /// Converts Mel scale to Hz
+  /// Inverse of _hzToMel: hz = 700 * (10^(mel / 2595) - 1)
+  /// Constants 2595 and 700 are standard mel scale conversion parameters
   static double _melToHz(double mel) => 700 * (pow(10, mel / 2595) - 1);
 
   /// Normalizes audio samples to -1.0 to 1.0 range

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../../core/constants/app_constants.dart';
+import '../../domain/entities/audio_detection_result.dart';
 import '../providers/audio_detection_provider.dart';
 import '../widgets/audio_visualizer.dart';
 import '../widgets/bird_result_card.dart';
@@ -210,7 +211,7 @@ class AudioDetectionPage extends ConsumerWidget {
 
   Widget _buildSuccessState(
     BuildContext context,
-    result,
+    AudioDetectionResult result,
     WidgetRef ref,
   ) {
     return Column(
